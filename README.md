@@ -6,6 +6,6 @@ A very silly site that does not much.
 
 -jQuery
 
-###
+### Acknowledgments
 
 Many thanks to [Rachel](https://github.com/bamadesigner) for the excellent examples.
