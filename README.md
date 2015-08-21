@@ -1,4 +1,4 @@
-# http://gear.dog
+# [GEAR DOG!](http://gear.dog)
 
 A very silly site that does not much.
 
